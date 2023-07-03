@@ -1,6 +1,6 @@
  ## 👨🏿‍💻Questoes Técnico para analista de programação em C# 👨🏿‍💻
 
-foi uma avaliação utilizada por empresas e recrutadores para avaliar as habilidades e conhecimentos de candidatos que desejam trabalhar com desenvolvimento de software utilizando a linguagem de programação C#.
+Foi uma avaliação utilizada por empresas e recrutadores para avaliar as habilidades e conhecimentos de candidatos que desejam trabalhar com desenvolvimento de software utilizando a linguagem de programação C#.
 
 Esse teste foi composto por uma série de perguntas teóricas e práticas que abrangem diversos tópicos relacionados à logica de programação, como tipos de dados, estruturas de controle de fluxo, classes e objetos, e programação orientada a objetos.
 
