@@ -1,4 +1,4 @@
- ## 👨🏿‍💻Questoes Técnico para analista de programação em C# 👨🏿‍💻
+ ## 👨🏿‍💻Questões Técnico para analista de programação em C# 👨🏿‍💻
 
 Foi uma avaliação utilizada por empresas e recrutadores para avaliar as habilidades e conhecimentos de candidatos que desejam trabalhar com desenvolvimento de software utilizando a linguagem de programação C#.
 
